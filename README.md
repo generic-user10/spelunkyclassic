@@ -1,4 +1,4 @@
-# Spelunky Classic HD HTML5
+# Hacklunky HTML5
 
 ![screenshot](screenshots/screenshot_00.jpg)
 
