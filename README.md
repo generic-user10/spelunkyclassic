@@ -2,7 +2,7 @@
 
 ![screenshot](screenshots/screenshot_00.jpg)
 
-HTML5 version of [Spelunky Classic HD](https://github.com/yancharkin/SpelunkyClassicHD).
+HTML5 version of [Spelunky Classic HD](https://github.com/generic-user10/SpelunkyClassic).
 
 This version has a bit more bugs but also it has some nice features:
 - you can play it in [your browser](https://github.com/generic-user10/spelunkyclassic)
