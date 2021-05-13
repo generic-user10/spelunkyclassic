@@ -5,7 +5,7 @@
 HTML5 version of [Spelunky Classic HD](https://github.com/generic-user10/SpelunkyClassic).
 
 This version has a bit more bugs but also it has some nice features:
-- you can play it in [your browser](https://rawcdn.githack.com/generic-user10/spelunkyclassic/a848f115429c715551b234fbc5a528bddf65d443/src/index.html)
+- you can play it in [your browser](https://rawcdn.githack.com/generic-user10/spelunkyclassic/3485ddeaa1d9a7aa3474a13bb665ab0c7c510667/src/index.html)
 - [builds for macOS, 64 bits builds for Linux and Windows, ARM builds for Linux (Electron)](https://github.com/yancharkin/SpelunkyClassicHDhtml5/releases)
 - touch input on any device that supports it (not only android)
 # Originally by Yancharkin, I modified it to give you every item and make getting to challenges easier. There's also a few other added features...
